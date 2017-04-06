@@ -1,0 +1,40 @@
+
+
+h1{
+	font-family: 'Coming Soon', cursive;
+	background-color: #EA1F3B;
+	color: white;
+	font-size: 4em;
+	text-align: center;
+	border-style: groove;
+	border-color: white;
+	border-width: .4em;
+	font-weight: bold;
+	letter-spacing: .3em;
+
+}
+
+body{
+	background-image: url("../images/JULYWALLPAPER.jpg");
+}
+
+.main{
+	font-family: 'Raleway', sans-serif;
+	float: right;
+	border-style: groove;
+	border-color: white;
+	border-width: .50em;
+	background: #69E758;
+	padding-left: .5em;
+	padding-right: .5em;
+	
+}
+
+ol{
+	
+	font-size: 1.5em;
+}
+
+#image{
+	padding-left: 100px;
+}

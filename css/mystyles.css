@@ -38,3 +38,51 @@ ol{
 #image{
 	padding-left: 100px;
 }
+
+#buttonJune{
+	float: left;
+	font-family: 'Raleway', sans-serif;
+	background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+}
+
+
+
+.buttonHome{
+margin-right: 15em;
+margin-left: 34.5em;
+
+
+	background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+    font-family: 'Raleway', sans-serif;
+
+}
+#buttonAugust{
+	float: right;
+	font-family: 'Raleway', sans-serif;
+	background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+
+}
